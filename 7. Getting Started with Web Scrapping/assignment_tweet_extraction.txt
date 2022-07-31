@@ -1,0 +1,7 @@
+1. https://www.geeksforgeeks.org/extraction-of-tweets-using-tweepy/
+2. Please follow link above to create App
+3. Please obtain credentials in step 2
+4. Please generate and print the tweets using the code in step 1
+
+
+Ref - https://developer.twitter.com/en/docs/labs/tweets-and-users/quick-start/get-tweets
